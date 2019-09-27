@@ -1,0 +1,23 @@
+{
+  "name": "daw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicioMoment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trampitax/DAW.git"
+  },
+  "author": "Roberto J. Muñoz de León",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trampitax/DAW/issues"
+  },
+  "homepage": "https://github.com/trampitax/DAW#readme",
+  "dependencies": {
+    "momentjs": "^2.0.0",
+    "nodemon": "^1.19.2"
+  }
+}
